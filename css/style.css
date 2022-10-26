@@ -20,6 +20,13 @@ h2 {
 	font-family: sans-serif;
 	margin: 50;
 }
+/* Иконки
+<i class="glyphicon glyphicon-cloud"></i> - облако
+<i class="glyphicon glyphicon-remove"></i> - крестик
+<i class="glyphicon glyphicon-user"></i> - юзер
+<i class="glyphicon glyphicon-envelope"></i> - письмо
+<i class="glyphicon glyphicon-thumbs-up"></i> - лайк
+*/
 /* Меню бокового бара */
 .sidebar {
   height: 100%; /* 100% Полный рост */
