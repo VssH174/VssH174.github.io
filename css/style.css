@@ -1,28 +1,11 @@
+{
+	box-sizing: border-box;
+}
 body {
 	background-color: #fff; 
-	margin: 0; //отступы
+	margin: 0;
+	font-weight: 250;
 	font-family: sans-serif;
-}
-h1 {
-	text-align: center;
-	padding-top: 10%;
-	color: #000;
-	text-transform: uppercase;
-
-}
-h2 {
-	text-align: center;
-	padding-top: 10%;
-	color: #000;
-	text-transform: uppercase;
-
-}
-h3 {
-	text-align: center;
-	padding-top: 10%;
-	color: #000;
-	text-transform: uppercase;
-
 }
 /*sidebar*/
 
