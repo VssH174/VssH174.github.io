@@ -59,7 +59,8 @@ h2 {
 /* Положение и стиль кнопки закрытия (верхний правый угол) */
 .sidebar .closebtn {
   position: absolute;
-  top: 0;
+  padding-top: 10;
+  /*top: 0;*/
   right: 25px;
   font-size: 36px;
   margin-left: 50px;
@@ -71,7 +72,7 @@ h2 {
   cursor: pointer;
   background-color: #111;
   color: white;
-  padding: 10px 15px;
+  padding: 5px 5px;
   border: none;
 }
 
