@@ -26,7 +26,8 @@ h3 {
   color: fff;
   font-size: 25px;
   font-family: sans-serif;
-  margin: 25;
+  margin: 10;
+  margin-left: 25;
 }
 /* Иконки
 <i class="glyphicon glyphicon-cloud"></i> - облако
